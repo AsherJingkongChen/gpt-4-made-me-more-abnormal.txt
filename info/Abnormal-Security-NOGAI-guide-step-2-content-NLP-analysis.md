@@ -1,0 +1,2 @@
+View the Text Analysis
+Our natural language processing models identified language in the email body that indicated an attacker was attempting to fraudulently obtain information and money from your organization.

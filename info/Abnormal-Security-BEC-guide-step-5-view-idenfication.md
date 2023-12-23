@@ -1,0 +1,2 @@
+View the Content Analysis
+For this message, the solution identified a financial request with a sense of urgency. It also identified a potential organization called Prolia Systems—a vendor that is present within VendorBase.

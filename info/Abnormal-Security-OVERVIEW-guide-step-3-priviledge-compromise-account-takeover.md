@@ -1,0 +1,2 @@
+Discover Account Takeover
+You can see which users within the organization may be compromised. Abnormal uses unusual login methods, locations, communication patterns, and user privilege changes to detected potentially compromised accounts and then automatically remediate them.

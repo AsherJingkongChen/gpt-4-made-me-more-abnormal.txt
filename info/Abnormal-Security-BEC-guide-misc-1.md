@@ -1,0 +1,2 @@
+CONTENT ANALYSIS: URGENT FINANCIAL REQUEST
+This email was flagged with a "Financial Request" topic and "Urgent" sentiment. Urgent financial requests are commonly associated with business email compromise.

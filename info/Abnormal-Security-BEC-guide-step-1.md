@@ -1,0 +1,2 @@
+View the Threat Log
+Inside the Threat Log, we find a classic example of an executive impersonation attack. In this attack, an email from Jonathan Green, the CFO, has been sent to Josh Waters—another internal employee.

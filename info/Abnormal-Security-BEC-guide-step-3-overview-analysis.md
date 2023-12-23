@@ -1,0 +1,2 @@
+View the Analysis Overview
+The solution creates a behavior profile on the normal behavior of every identity, using simple language to explain each detected anomaly, such as deviations in their relationship, communication habits, and more.
